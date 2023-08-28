@@ -1,8 +1,9 @@
-Le programme analyse le nom des fenêtres lancer afin de reconnaitre le jeu,
-Lorsque le script détècte un nouveau message dans le clipboard (CTRL+C) contenant "/travel" analyse les coordonées qui suivent et réécrit le tout sur la fenêtre de jeu
-(ESPACE, /travel, coordonnées, ENTREE, ENTREE) en la mettant en premier plan.
+Le programme analyse le nom des fenêtres lancées afin de reconnaître le jeu. 
+Lorsque le script détecte un nouveau message dans le presse-papiers (CTRL+C) contenant "/travel", 
+il analyse les coordonnées qui suivent et réécrit le tout sur la fenêtre de jeu 
+(ESPACE, /travel, coordonnées, ENTREE, ENTREE), en la mettant au premier plan.
 
-* Ne peut pas renvoyer les mêmes coordonées 2 fois desuite
-* Ne pas avoir les MAJ activer
-* Avoir Dofus ouvert au démarrage
-* Avoir un autopilotage actif
+* Il ne peut pas renvoyer les mêmes coordonnées 2 fois de suite.
+* Les MAJUSCULES ne doivent pas être activées.
+* Dofus doit être ouvert au démarrage.
+* L'autopilotage doit être actif.
