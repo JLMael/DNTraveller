@@ -7,3 +7,7 @@ il analyse les coordonnées qui suivent et réécrit le tout sur la fenêtre de 
 * Les MAJUSCULES ne doivent pas être activées.
 * Dofus doit être ouvert au démarrage.
 * L'autopilotage doit être actif.
+
+
+Installez les dépendances et utilisez Python 3.7 ou +
+pip install -r requirements.txt
