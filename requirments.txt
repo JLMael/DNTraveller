@@ -1,0 +1,5 @@
+tkinter
+pyautogui
+pyperclip
+pygetwindow
+pywin32
