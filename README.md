@@ -10,4 +10,5 @@ il analyse les coordonnées qui suivent et réécrit le tout sur la fenêtre de 
 
 
 Installez les dépendances et utilisez Python 3.7 ou +
+
 pip install -r requirements.txt
